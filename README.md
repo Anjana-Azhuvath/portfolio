@@ -1,5 +1,7 @@
 # Professional Summary
 
+I am a second-year graduate student seeking full-time positions in advisory and consulting. My areas of interest include competition and labor. Leveraging my quantitative and programming skills, enables me to dissect complex economic issues and deliver actionable insights. 
+
 #### Interests: M&A, Transfer Pricing, Economic and Financial Data Analysis, Financial Modelling, 
 #### Technical Skills: Python, SQL, R, Julia, SAS, Matlab
 #### Softwares: PowerBI, MS Office Suite, Tableau, UCINET, Latex, Eviews, SPSS
