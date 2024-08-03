@@ -7,14 +7,14 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 #### Softwares: PowerBI, MS Office Suite, Tableau, UCINET, Latex, Eviews, SPSS, PostGreSQL, SQLite
 
 ## Education
-### Ms, Financial Economic | Texas A&M University (_Dec 2024_)
+#### Ms, Financial Economic | Texas A&M University (_Dec 2024_)
 - Coursework : Transfer Pricing, Financial Management I, Statistical Methods in Finance
 - Leadership : Financial Management Association, General Officer
 - Merit Based Scholarship, Department of Economics (2023)
-### MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)
+#### MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)
 - Coursework : International Trade, Econometric Methods I & II,
 - Leadership: Board Member, Chamber of Economics
-### BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
+#### BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
 - Coursework: Financial Accounting, Management Accounting, Game Theory, Statistica I & II
 - Leadership: Association Secretary, Department of Economics
 - Shri VL Ethiraj Merit Based Scholarship, Ethiraj College for Women (2019)
@@ -42,6 +42,8 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 - Liaised with Public Works Department, collecting data on scheme’s budget allocation and expenditures
 
 **Research Intern @ Stella Maris College for Women (_Jun 2020 - Sept 2020_)**
+- Orchestrated a tool-kit for preliminary data analysis on MS Excel for sophmore-year students.
+- Employed dummy-variable and semi-log models, determining the academic achievement and regional disparities prior to the pandemic.
 
 **Finance Intern @ Kotak Life (_May 2018 - Jun 2018_)**
 - Performed in-sample forecasts to check for best fit model, identifying **8%** quarterly sales growth potential
