@@ -24,14 +24,15 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 - 
 
 **Research Assistant @ Tamil Nadu Household Panel Survey (_Oct 2021 - Aug 2022_)** 
-- Monitored execution of pilot survey across **876** households
+- Monitored execution of pilot survey across **876** households, employing 
 - Collaborated with project team to estimate 2023-2024 fiscal year expenses, securing **Rs. 1 million** in funding
 - Engineered onboarding documents, resulting in **28%** reduction in training period
-- Ascertained effectiveness of food assistance schemes and financial aid during COVID-19 lockdown using STATA
+- Ascertained effectiveness of food assistance schemes and financial aid during COVID-19 lockdown using **STATA**
 - Partnered with research team, producing 32 district-level reports, utilizing pre-baseline findings
+- Initiated development of high-frequency dashboards tracking KPIs, including competition rate, consent rates,and enumerator bias, boosting productivity by **14.3%**
 
 **Research Intern @ Tamil Nadu Covid Pulse Survey (_Jul 2021 - Aug 2021_)**
-- Reported and visualized findings on online education access and vaccine uptake for **12741** households on Tableau
+- Reported and visualized findings on online education access and vaccine uptake for **12741** households on **Tableau**
 - Executed comprehensive audio audit, back-checks and super-checks for telephonic interviews for **300** participants
 
 **Research Intern @ Economic Evaluation of Wetland Ecosystems (_May 2021 - June 2021_)**
