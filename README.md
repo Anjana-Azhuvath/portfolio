@@ -21,10 +21,18 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 
 ## Work Experience
 **Graduate Assistant, Research @ Center for Teaching Excellence (_Apr 2023 - Present_)**
+- 
 
 **Research Assistant @ Tamil Nadu Household Panel Survey (_Oct 2021 - Aug 2022_)** 
+- Monitored execution of pilot survey across **876** households
+- Collaborated with project team to estimate 2023-2024 fiscal year expenses, securing **Rs. 1 million** in funding
+- Engineered onboarding documents, resulting in **28%** reduction in training period
+- Ascertained effectiveness of food assistance schemes and financial aid during COVID-19 lockdown using STATA
+- Partnered with research team, producing 32 district-level reports, utilizing pre-baseline findings
 
 **Research Intern @ Tamil Nadu Covid Pulse Survey (_Jul 2021 - Aug 2021_)**
+- Reported and visualized findings on online education access and vaccine uptake on Tableau
+- 
 
 **Research Intern @ Economic Evaluation of Wetland Ecosystems (_May 2021 - June 2021_)**
 
