@@ -4,7 +4,7 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 
 #### Interests: M&A, Transfer Pricing, Economic and Financial Data Analysis, Financial Modelling, 
 #### Technical Skills: Python, SQL, R, Julia, SAS, Matlab
-#### Softwares: PowerBI, MS Office Suite, Tableau, UCINET, Latex, Eviews, SPSS
+#### Softwares: PowerBI, MS Office Suite, Tableau, UCINET, Latex, Eviews, SPSS, PostGreSQL, SQLite
 
 ## Education
 ### Ms, Financial Economic | Texas A&M University (_Dec 2024_)
