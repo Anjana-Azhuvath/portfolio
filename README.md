@@ -42,10 +42,15 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 **Research Intern @ Stella Maris College for Women (_Jun 2020 - Sept 2020_)**
 
 **Finance Intern @ Kotak Life (_May 2018 - Jun 2018_)**
+- Performed in-sample forecasts to check for best fit model, identifying **8%** quarterly sales growth potential
+-  Developed and automated financial models to forecast revenues, cash flows, and other key financial metrics,contributing to a **21%** reduction in budget preparation time
 
 **Economic Analyst Intern @ Akara Research & Technologies Pvt Ltd (_Feb 2018 - Mar 2018_)**
 
 **Capital Markets Intern @ TradePlus Online (_Oct 2017 - Feb 2018_)**
+- Minimized trade rejections cost by **2%** for NRE clients through optimized trade execution processes
+- Administered margin shortfall protocols and square-offs to mitigate credit risk exposure for **35 clients**
+- Improved client retention by **5%** through expedited pay-in and pay-out procedures
 
 ## Projects and Writing Samples
 
