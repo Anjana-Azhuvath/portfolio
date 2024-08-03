@@ -1,13 +1,18 @@
-# About Me
+# Professional Summary
 
+#### Interests: M&A, Transfer Pricing, Economic and Financial Data Analysis, Financial Modelling, 
+#### Technical Skills: Python, SQL, R, Julia, SAS, Matlab
+#### Softwares: PowerBI, MS Office Suite, Tableau, UCINET, Latex, Eviews, SPSS
 
 ## Education
-Ms, Financial Economic
-MA, Economics
-BA, Economics
+Ms, Financial Economic | Texas A&M University (_Dec 2024_)
+- Merit Based Scholarship, Department of Economics
+MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)
+BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
+- Shri VL Ethiraj Merit Based Scholarship, Ethiraj College for Women
 
 ## Work Experience
-Graduate Assistant, Research @ Center for Teaching Excellence
+Graduate Assistant, Research @ Center for Teaching Excellence (_Apr 2023 - Present_)**
 
 Research Assistant @ Tamil Nadu Household Panel Survey
 
