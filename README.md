@@ -47,10 +47,11 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 
 **Finance Intern @ Kotak Life (_May 2018 - Jun 2018_)**
 - Performed in-sample forecasts to check for best fit model, identifying **8%** quarterly sales growth potential
--  Developed and automated financial models to forecast revenues, cash flows, and other key financial metrics,contributing to a **21%** reduction in budget preparation time
+- Developed and automated financial models to forecast revenues, cash flows, and other key financial metrics,contributing to a **21%** reduction in budget preparation time
 
 **Economic Analyst Intern @ Akara Research & Technologies Pvt Ltd (_Feb 2018 - Mar 2018_)**
 - Enhanced  client's operational efficiency by **3.5%**, adopting tech-enabled audit of Oem dealerships.
+- Performed feasability studies and real-time data projections, forecasting passenger & goods traffic on proprietary software. 
 
 **Capital Markets Intern @ TradePlus Online (_Oct 2017 - Feb 2018_)**
 - Minimized trade rejections cost by **2%** for NRE clients through optimized trade execution processes
