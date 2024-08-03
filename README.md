@@ -21,7 +21,8 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 
 ## Work Experience
 **Graduate Assistant, Research @ Center for Teaching Excellence (_Apr 2023 - Present_)**
-- 
+- Applied cross-sectional data analysis in **R**, quantifying the impact of translanguaging on K-12 classrooms
+- Leveraged network maps, estimating learner's skill development in an AI-integrated course, facilitating evidence-based curriculum design.
 
 **Research Assistant @ Tamil Nadu Household Panel Survey (_Oct 2021 - Aug 2022_)** 
 - Monitored execution of pilot survey across **876** households, employing 
