@@ -10,12 +10,14 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 ### Ms, Financial Economic | Texas A&M University (_Dec 2024_)
 - Coursework : Transfer Pricing, Financial Management I, Statistical Methods in Finance
 - Leadership : Financial Management Association, General Officer
-- Merit Based Scholarship, Department of Economics
+- Merit Based Scholarship, Department of Economics (2023)
 ### MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)
 - Coursework : International Trade, Econometric Methods I & II,
 - Leadership: Board Member, Chamber of Economics
 ### BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
 - Coursework: Financial Accounting, Management Accounting, Game Theory, Statistica I & II
+- Leadership: Association Secretary, Department of Economics
+- Shri VL Ethiraj Merit Based Scholarship, Ethiraj College for Women (2019)
 
 ## Work Experience
 **Graduate Assistant, Research @ Center for Teaching Excellence (_Apr 2023 - Present_)**
