@@ -31,8 +31,8 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 - Partnered with research team, producing 32 district-level reports, utilizing pre-baseline findings
 
 **Research Intern @ Tamil Nadu Covid Pulse Survey (_Jul 2021 - Aug 2021_)**
-- Reported and visualized findings on online education access and vaccine uptake on Tableau
-- 
+- Reported and visualized findings on online education access and vaccine uptake for **12741** households on Tableau
+- Executed comprehensive audio audit, back-checks and super-checks for telephonic interviews for **300** participants
 
 **Research Intern @ Economic Evaluation of Wetland Ecosystems (_May 2021 - June 2021_)**
 
