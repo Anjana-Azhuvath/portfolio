@@ -35,6 +35,8 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 - Executed comprehensive audio audit, back-checks and super-checks for telephonic interviews for **300** participants
 
 **Research Intern @ Economic Evaluation of Wetland Ecosystems (_May 2021 - June 2021_)**
+- Employed ”willingness to pay approach”, evaluating economic value of inland-wetlands for **2 districts**
+- Liaised with Public Works Department, collecting data on scheme’s budget allocation and expenditures
 
 **Research Intern @ Stella Maris College for Women (_Jun 2020 - Sept 2020_)**
 
