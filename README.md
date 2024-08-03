@@ -8,10 +8,8 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 
 ## Education
 Ms, Financial Economic | Texas A&M University (_Dec 2024_)
-  Merit Based Scholarship, Department of Economics
 MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)
 BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
-  Shri VL Ethiraj Merit Based Scholarship, Ethiraj College for Women
 
 ## Work Experience
 Graduate Assistant, Research @ Center for Teaching Excellence (_Apr 2023 - Present_)**
@@ -38,11 +36,11 @@ Pricing ESG Index Constituents
 
 Empirical Analysis of the Risk- Return relationship in the Health Care Industry
 
-## Certifications and Publication
+## Scholarships and Publication
 
 ## Leadership and Volunteer Work
 
-## Skills 
+
 
 
 
