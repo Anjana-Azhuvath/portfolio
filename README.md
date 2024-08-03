@@ -7,9 +7,15 @@ I am a second-year graduate student seeking full-time positions in advisory and 
 #### Softwares: PowerBI, MS Office Suite, Tableau, UCINET, Latex, Eviews, SPSS
 
 ## Education
-Ms, Financial Economic | Texas A&M University (_Dec 2024_)
-MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)
-BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
+**Ms, Financial Economic | Texas A&M University (_Dec 2024_)**
+- Coursework : Transfer Pricing, Financial Management I, Statistical Methods in Finance
+- Leadership : Financial Management Association, General Officer
+- Merit Based Scholarship, Department of Economics
+**MA, Economics | Stella Maris College, University of Madras (_Apr 2021_)**
+- Coursework : International Trade, Econometric Methods I & II,
+- Leadership: Board Member, Chamber of Economics
+**BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)**
+- Coursework: Financial Accounting, Management Accounting, Game Theory, Statistica I & II
 
 ## Work Experience
 **Graduate Assistant, Research @ Center for Teaching Excellence (_Apr 2023 - Present_)**
@@ -36,9 +42,9 @@ BA, Economics | Ethiraj College for Women, University of Madras (_Apr 2019_)
 
 **Empirical Analysis of the Risk- Return relationship in the Health Care Industry**
 
-## Scholarships and Publication
 
-## Leadership and Volunteer Work
+
+
 
 
 
