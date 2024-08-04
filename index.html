@@ -70,6 +70,31 @@
         padding-left: 20px;
         line-height: 1.0;
     }
+        .project {
+            margin-bottom: 20px;
+        }
+        .project img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            margin-right: 20px;
+            float: left;
+            border-radius: 10px;
+            transition: transform 0.3s;
+        }
+        .project img:hover {
+            transform: scale(1.1);
+        }
+        .project a {
+            text-decoration: none;
+            color: black;
+        }
+        .project a:hover {
+            text-decoration: underline;
+        }
+        .project-description {
+            overflow: hidden;
+        }
     </style>
 </head>
 <body>
@@ -185,15 +210,17 @@
             <p style="margin: 0; padding: 0;">• Administered margin shortfall protocols and square-offs to mitigate credit risk exposure for <strong>35</strong> clients</p>
 
 </div>
-    
-<div id="projects" class="tab-content active">
-  <h2>Projects</h2>
-  <div class="project-card">
-    <img src="assets/CrossBorder.png" alt="Cross Border Volatility Transmission">
-    <h3>Cross Border Volatility Transmission</h3>
-    <p>Empirically examined the volatility spillovers using GARCH, VAR and Granger Causality</p>
-    <a href="project1.html" class="view-project">View Project</a>
-  </div>
+   <div id="projects" class="tab-content">
+        <h2>Projects</h2>
+        <div class="project">
+            <a href="https://link-to-your-project.com" target="_blank">
+                <img src="assets/CrossBorder.png" alt="Cross Border Volatility Transmission"> <!-- Replace with your image file -->
+                <div class="project-description">
+                    <h3>Project 1 Name</h3>
+                    <p>Empirically examined the volatility spillovers using GARCH, VAR and Granger Causality</p>
+                </div>
+            </a>
+        </div>
 
 
 
