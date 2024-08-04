@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <style>
+        body {
+            font-family: 'Garamond', serif;
+            background-color: ivory;
+            color: black;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #D2B48C; /* Sandalwood */
+            padding: 20px;
+            text-align: center;
+        }
+        .tab {
+            display: inline-block;
+            padding: 10px 20px;
+            cursor: pointer;
+            background-color: #D2B48C; /* Sandalwood */
+            margin: 0 5px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .tab:hover {
+            background-color: #B89F77; /* Darker sandalwood */
+        }
+        .tab-content {
+            display: none;
+            padding: 20px;
+            margin: 20px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .active {
+            display: block;
+        }
+        .profile-pic {
+            width: 200px; /* Adjust size as needed */
+            height: 200px; /* Adjust size as needed */
+            border-radius: 50%;
+            border: 3px solid white; /* Optional: adds a border */
+            overflow: hidden;
+            transition: transform 0.3s; /* Smooth transition for zoom effect */
+            float: left; /* Align the image to the left */
+            margin-right: 30px; /* Space between image and text */
+        }
+        .profile-pic:hover {
+            transform: scale(1.2); /* Zoom in on hover */
+        }
+        .profile-pic img {
+            width: 100%; /* Makes the image fill the bubble */
+            height: 100%;
+            object-fit: cover; /* Ensure the image covers the bubble without distortion */
+            object-position: center; /* Center the image within the bubble */
+        }
+        h2 {
+            margin: 0 0 30px 0;
+        }
+        .clearfix {
+            clear: both; /* Clear floats */
+        }
+        .job-duty {
+        margin-bottom: 5px;
+        text-indent: -20px;
+        padding-left: 20px;
+        line-height: 1.0;
+    }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Anjana Azhuvath</h1>
+        <p style="margin: 0; padding: 0;"><strong>Contact</strong></p>
+<ul style="margin: 0; padding: 0;">
+    <li style="margin: 0; padding: 0;">azhuvath_01@tamu.edu | 979-985-1846 | <a href="https://www.linkedin.com/in/anjana-r-azhuvath/">anjana-r-azhuvath</a> </li>
+</ul>
+        <p> <strong>Programming Skills:</strong> R, Python, Matlab, Latex, Html, Julia, SQL</p>
+        <p> <strong>Softwares:</strong> PowerBI, STATA,MS office Suite, Eviews, SAS, SPSS, Bloomberg Terminal, Capital IQ, SQLite, Postgresql, Agile, Jupyter,Tableau, UNICET</p>
+        <p> <strong>Areas of Expertise:</strong> Econometric Analysis, Financial Modelling, M&A, Transfer Pricing, ESG</p>
+    
+    </header>
+    
+    <div>
+        <div class="tab" onclick="openTab('about-me')">About Me</div>
+        <div class="tab" onclick="openTab('cv')">CV</div>
+        <div class="tab" onclick="openTab('projects')">Projects</div>
+    </div>
+
+    <div id="about-me" class="tab-content active">
+        <h2>About Me</h2>
+        <div class="profile-pic">
+            <img src="/Users/anjanaraja/Desktop/portfolio/photo.png" alt="Profile Picture"> <!-- Replace with your image file -->
+        </div>
+        <p> Hello! I'm a Financial Economics major at Texas A&M University, deeply passionate about exploring the intricate dynamics of finance and economics.
+            My academic journey has equipped me with a strong foundation in econometrics, statistical methods in finance, financial management, and transfer pricing. 
+            This comprehensive education has fueled my enthusiasm for economic research, consultancy, and financial analysis. </p>
+        <p>Throughout my academic and professional career, I have actively sought opportunities to apply my knowledge in real-world scenarios.
+            My experience as a research assistant spans various domains, including education and panel surveys.
+            Additionally, I have served as a research intern on several development economics projects, where I honed my skills in analyzing diverse data sets, including panel, cross-sectional, time series, and pooled data.</p>
+        <p>My proficiency in programming languages such as R, Python, Stata, SAS, Julia, and Matlab allows me to tackle complex data analysis tasks with precision and efficiency. 
+           One of my proudest achievements is having a paper accepted at the prestigious International Conference of the Learning Sciences (ISLS), where I co-authored a study on constructionist approaches in teaching complex biology concepts.
+           In addition to my technical skills, I have had the privilege of liaising with government and corporate stakeholders through various research projects.
+           These experiences have not only enhanced my analytical abilities but also strengthened my communication and collaboration skills.</p>
+        <p>I am driven by a relentless commitment to excellence and a passion for breaking down complex economic issues.I am particularly interested in transfer pricing, mergers and acquisitions, and anti-trust issues.
+            My long-term aspiration is to rise to the position of Vice President at a leading consultancy firm, where I can make meaningful contributions to the field of economic research and consultancy.
+            Outside of my professional interests, I am a firm believer in the importance of personal growth and continuous learning.
+            I approach every challenge with grit, consistency, and a dedication to hard work.</p>
+        <p>Thank you for taking the time to learn more about me. 
+            I look forward to connecting with like-minded professionals and exploring opportunities to contribute to the world of finance and economics.</p>
+        <div class="clearfix"></div> <!-- Clear float after the profile picture -->
+        <h2>Skills and Achievements</h2>
+        <h4 style="margin-bottom: 0;">  Conference Presentations:</h4>
+            <p style="margin: 0; padding: 0;"> • Chowdhury, Mahjabin, Anjana Azhuvath, and Asha Rao. "From Drawing to Understanding: Constructionist Approaches in Teaching Complex Biology Concepts." Proceedings of the 18th International Conference of the Learning Sciences-ICLS 2024, pp. 2141-2142. International Society of the Learning Sciences, 2024</p>
+            <p style="margin: 0; padding: 0;"> • Technnological Unemployement in the Indian Automotive Industry, Indian Economic Association Conference, 2019</p>
+
+        <h4 style="margin-bottom: 0;"> Scholarships:</h4>
+            <p style="margin: 0; padding: 0;"> • Merit-based Scholarship, Department of Economics, Texas A&M University, (Jan 2023 - May 2023)</p>
+            <p style="margin: 0; padding: 0;"> • Shri VL Ethiraj Merit-based Scholarship, Ethiraj College for Women (June 2018 - Apr 2019) </p>
+
+        <h4 style="margin-bottom: 0;"> Leadership:</h4>
+            <p style="margin: 0; padding: 0;"> • Financial Management Association, General Officer, Texas A&M University (Aug 2024 - Dec 2024)</p>
+            <p style="margin: 0; padding: 0;"> • Board Member, Chamber of Economics, Stella Maris College (Jun 2020 - Apr 2021)</li>
+            <p style="margin: 0; padding: 0;"> • Association Secretary, Department of Economics, Ethiraj College for Women (Jun 2018 - Apr 2019)</p>
+
+        <h4 style="margin-bottom: 0;"> Certification:</h4>
+    <p style="margin: 0; padding: 0;"> • Bloomberg Market Concepts</p>
+    <p  style="margin: 0; padding: 0;"> • Bloomberg ESG</p>
+    <p  style="margin: 0; padding: 0;"> • CFI, Mergers and Acquisitions Modelling</p>
+    <p  style="margin: 0; padding: 0;"> • CFI, M&A Accounting and Price Allocation</p>
+
+</div>
+
+    <div id="cv" class="tab-content">
+            <h3>Education</h3>
+            <h4 style="margin-bottom: 0;">Ms, Financial Economics | Texas A&M University (Dec - 2024)</h4>
+            <p style="margin: 0; padding: 0;">• Coursework: Transfer Pricing, Financial Econometrics, Financial Management,Statistical Methods in Finance </p>
+            <h4 style="margin-bottom: 0;">MA, Economics | Stella Maris College, University of Madras (Apr 2021)</h4>
+            <p style="margin: 0; padding: 0;">• Coursework: International Trade, Econometrics I & II, Microeconomics I & II, Macroeconomics I & II</p>
+            <h4 style="margin-bottom: 0;">BA, Economics | Ethiraj College for Women, University of Madras (Apr 2019)</h4>
+            <p style="margin: 0; padding: 0;">• Coursework: Foundations of Financial Accounting, Management Accounting, Statistics I & II</p>
+
+            <h3 style="margin-bottom: 0;">Work Experience</h3>
+            <h4 style="margin-bottom: 0;">Graduate Assistant, Research @ Center for Teaching Excellence (Apr 2023 - Present)</h4>
+            <p style="margin: 0; padding: 0;">• Applied cross-sectional data analysis in R, quantifying the impact of translanguaging on K-12 classrooms</p>
+            <p style="margin: 0; padding: 0;">• Facilitated evidence-based curriculum design, estimating learner's skill development in an AI-integrated course</p>
+            <p style="margin: 0; padding: 0;">• Conducted a mixed-methods study using Jupyter to estimate the relationship between student confidence and test scores pre- and post-intervention</p>
+            
+            <h4 style="margin-bottom: 0;">Research Assistant @ Tamil Nadu Household Panel Survey (Oct 2021 - Aug 2022)</h4>
+            <p style="margin: 0; padding: 0;">• Monitored execution of pilot survey across <strong>876</strong> households</p>
+            <p style="margin: 0; padding: 0;">• Collaborated with project team to estimate 2023-2024 fiscal year expenses, securing <strong> Rs. 1 million </strong> in funding</p>
+            <p style="margin: 0; padding: 0;">• Engineered onboarding documents, resulting in <strong>28%</strong> reduction in training period</p>
+            <p style="margin: 0; padding: 0;">• Ascertained effectiveness of food assistance schemes and financial aid during COVID-19 lockdown using STATA</p>
+            <p style="margin: 0; padding: 0;">• Partnered with research team, producing <strong>32</strong> district-level reports, utilizing pre-baseline findings</p>
+            <p style="margin: 0; padding: 0;">• Initiated development of high-frequency dashboards tracking KPIs, including competition rate, consent rates, and enumerator bias, boosting productivity by <strong>14.3%</strong></p>
+            
+            <h4 style="margin-bottom: 0;">Research Intern @ Tamil Nadu Covid Pulse Survey (Jul 2021 - Sept 2021)</h4>
+            <p style="margin: 0; padding: 0;">• Reported and visualized findings on online education access and vaccine uptake for <strong>12741</strong> households on <strong>Tableau</strong></p>
+            <p style="margin: 0; padding: 0;">• Executed comprehensive audio audit, back-checks and super-checks for telephonic interviews for <strong>300</strong> participants</p>
+
+            <h4 style="margin-bottom: 0;">Research Intern @ Economic Valuation of Wetland Ecosystems (May 2021 - Jun 2021)</h4>
+            <p style="margin: 0; padding: 0;">• Reported and visualized findings on online education access and vaccine uptake for <strong>12741</strong> households on <strong>Tableau</strong></p>
+            <p style="margin: 0; padding: 0;">• Executed comprehensive audio audit, back-checks and super-checks for telephonic interviews for <strong>300</strong> participants</p>
+
+
+            <h4 style="margin-bottom: 0;">Research Intern @ Stella Maris College for Women (Jun 2020 - Sept 2020)</h4>
+            <p style="margin: 0; padding: 0;">• Orchestrated a tool-kit for preliminary data analysis on MS Excel for sophomore-year students </p>
+            <p style="margin: 0; padding: 0;">• Employed dummy-variable and semi-log models, determining the academic achievement and regional disparities prior to the pandemic.</p>
+            
+            <h4 style="margin-bottom: 0;"> Finance Intern @ Kotak Life (May 2018 - Jun 2018)</h4>
+            <p style="margin: 0; padding: 0;">• Performed in-sample forecasts to check for best fit model, identifying <strong>8%</strong> quarterly sales growth potential</p>
+            <p style="margin: 0; padding: 0;">• Developed and automated financial models to forecast revenues, cash flows, and other key financial metrics,contributing to a <strong>21%</strong> reduction in budget preparation time</p>
+            
+            <h4 style="margin-bottom: 0;">Economic Analyst Intern @ Akara Research & Technologies Pvt Ltd (Feb 2018 - Mar 2018)</h4>
+            <p style="margin: 0; padding: 0;">• Enhanced  client's operational efficiency by <strong>3.5%</strong>, adopting tech-enabled audit of Oem dealerships. </p>
+            <p style="margin: 0; padding: 0;">• Performed feasibility studies and real-time data projections, forecasting passenger & goods traffic on proprietary software. </p>
+            
+            <h4 style="margin-bottom: 0;">Capital Markets Intern @ TradePlus Online (Oct 2017 - Feb 2018)</h4>
+            <p style="margin: 0; padding: 0;">• Minimized trade rejections cost by <strong>2%</strong> for NRE clients through optimized trade execution processes</p>
+            <p style="margin: 0; padding: 0;">• Improved client retention by <strong>5%</strong>through expedited pay-in and pay-out procedures</p>
+            <p style="margin: 0; padding: 0;">• Administered margin shortfall protocols and square-offs to mitigate credit risk exposure for <strong>35</strong> clients</p>
+
+</div>
+    
+    <div id="projects" class="tab-content active"></div>
+        <h2>Projects</h2>
+            <img src="project1.jpg" alt="Project 1">
+            <h3>Cross Border Volatility Transmission</h3>
+            <p>Empirically examined the volatility spillovers using GARCH, VAR and Granger Causality</p>
+            <a href="project1.html" class="view-project">View Project</a>
+
+            <img src="project2.jpg" alt="Project 2">
+            <h3>Home Net Business Plan</h3>
+            <p>Constructed Free Cash Flow Capital Budgeting Model, implementing NPV, Payback Period, IRR,and MIRR, facilitating decision-making</p>
+            <a href="project2.html" class="view-project">View Project</a>
+
+            <img src="project3.jpg" alt="Project 3">
+            <h3>Forecasting GDP Growth</h3>
+            <p>Built a rolling and recursive window forecast using quarterly term-spread and real GDP data.</p>
+            <a href="project3.html" class="view-project">View Project</a>
+
+            <img src="project4.jpg" alt="Project 4">
+            <h3>GOOGLE LLC: Diversity Manifesto and Leader Candor</h3>
+            <p>Analyzing the Impact of the Damore Memo on Google's Company Culture and Subsequent Response Strategies</p>
+            <a href="project4.html" class="view-project">View Project</a>
+
+            <img src="project5.jpg" alt="Project 5">
+            <h3>Shield: Product Development in a Distribution Team</h3>
+            <p>An examination of the coordination challenges faced by a software development team with members located on the West Coast of the US and in Bangalore, India. </p>
+            <a href="project5.html" class="view-project">View Project</a>
+
+            <img src="project6.jpg" alt="Project 6">
+            <h3>South-West Airlines</h3>
+            <p>Given the evolving and dynamic nature of Southwest Airlines' business environment, the company may face several potential challenges in maintaining its renowned corporate culture.
+                An analysis and evaluation of the company's future and culture is explored. </p>
+            <a href="project6.html" class="view-project">View Project</a>
+    </div>  
+  
+    
+    <script>
+        function openTab(tabName) {
+            // Hide all tab contents
+            const tabContents = document.querySelectorAll('.tab-content');
+            tabContents.forEach(tab => {
+                tab.classList.remove('active');
+            });
+            // Show the selected tab content
+            document.getElementById(tabName).classList.add('active');
+        }
+    </script>
+</body>
+</html>
