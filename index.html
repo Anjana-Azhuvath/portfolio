@@ -40,17 +40,19 @@
             display: block;
         }
         .profile-pic {
-            width: 150px;
-            height: 200px; /* Adjust height as needed */
+            width: 100px;
+            height: 100px; /* Adjust height as needed */
             border-radius: 0;
             object-fit: cover;
+            float: left;         /* Floats the image to the left of the text */
+            margin: 0 15px 15px 0;
         }
         .profile-pic:hover {
             transform: scale(1.2); /* Zoom in on hover */
         }
         .profile-pic img {
-            width: 150%; /* Makes the image fill the bubble */
-            height: 200%;
+            width: 100%; /* Makes the image fill the bubble */
+            height: 100%;
             object-fit: cover; /* Ensure the image covers the bubble without distortion */
             object-position: center; /* Center the image within the bubble */
         }
